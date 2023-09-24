@@ -1,1 +1,2 @@
-# IMPLEMENT-3-TIER-ARCHITECTURE-IN-AWS-USING-TERRAFORM
+# three-tier-arch-aws-terraform
+Provision three tier architecture on AWS using Terraform
